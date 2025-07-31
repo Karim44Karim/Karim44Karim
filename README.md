@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karim44karim&label=Profile%20views&color=0e75b6&style=flat" alt="karim44karim" /> </p>
 
-🌱 I’m currently transitioning from an Electrical Design Engineer role into Front-End Web Development.
-
 💻 I’m building responsive and interactive web apps using **React**, **JavaScript**, **HTML**, **CSS**, and **Tailwind CSS**.
 
 ⚡ I enjoy turning ideas into clean, user-friendly interfaces.
