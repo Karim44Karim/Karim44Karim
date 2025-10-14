@@ -39,4 +39,4 @@
 
 ---
 
-![snake gif](https://github.com/YOUR_USERNAME/Karim44Karim/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Karim44Karim/Karim44Karim/blob/output/github-snake-dark.svg)
